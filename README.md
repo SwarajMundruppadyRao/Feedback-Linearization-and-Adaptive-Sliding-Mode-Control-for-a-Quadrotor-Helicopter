@@ -63,5 +63,24 @@ Steps to be followed to run ASMC_without_Sensor_Noise.slx file:
 
 3. Open the individual Scopes to visualise the outputs
 
-4. Run the plot_3d.m file to visualise the trajectory in 3D 
+4. Run the plot_3d.m file to visualise the trajectory in 3D
+
+## MATLAB Simulation Videos
+
+Feedback Linearization Control
+
+https://github.com/user-attachments/assets/e1f46f5b-85d1-4911-8188-21c703364f38
+
+Adaptive Sliding Mode Control ( With Sensor Noise Considered) 
+
+https://github.com/user-attachments/assets/7400c412-e2e1-4adc-a2a8-0d37089485e7
+
+
+Adaptive Sliding Mode Control ( Without Sensor Noise Consideration) 
+
+
+https://github.com/user-attachments/assets/69d0703f-fe58-403b-bad1-3bf83a37d60b
+
+
+
 
